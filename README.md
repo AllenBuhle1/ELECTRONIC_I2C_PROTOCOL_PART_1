@@ -7,3 +7,6 @@ This is basic I2C Serial Communication Protocol makes use of one slave and one m
 
 ## Oscilloscope lines Explanation
 ![Oscilloscope Explanation](./scilloscope.jpg)
+
+# OTHER COMMUNICATION DEMONSTRATIONS
+## RS232 COMMUNICATION DEMONSTRATION [link](https://youtu.be/LvdoniAMvtU?si=VpWv37wDliS669wd)
